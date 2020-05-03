@@ -16,3 +16,5 @@ python manage.py makemigrations leads
 python manage.py migrate
 
 //create serializer to take the model and turn it into json
+//create api
+//postman to send requests
