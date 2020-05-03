@@ -8,3 +8,9 @@ django-admin startproject leadmanager
 
 //gereate django app
 python manage.py startapp 
+
+//make model, migration
+python manage.py makemigrations leads
+
+//add migration 2database
+python manage.py migrate
