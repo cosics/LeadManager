@@ -1,0 +1,10 @@
+pip3 install pipenv
+pipenv shell
+pipenv install django djangorestframework django-rest-knox
+
+//create django 
+
+django-admin startproject leadmanager
+
+//gereate django app
+python manage.py startapp 
