@@ -14,3 +14,5 @@ python manage.py makemigrations leads
 
 //add migration 2database
 python manage.py migrate
+
+//create serializer to take the model and turn it into json
