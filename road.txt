@@ -18,3 +18,20 @@ python manage.py migrate
 //create serializer to take the model and turn it into json
 //create api
 //postman to send requests
+
+//create react app manually
+mkdir src/components, static/frontend, templates/frotend
+
+npm init -y  //package.json
+npm i -D webpack webpack-cli
+npm i -D @babel/core babel/loader @babel/preset-env @babel/preset-react babel-plugin-transform-class-properties
+npm i react react-dom prop-types
+
+//update package.json
+//create .babelrc, db.sqlite3
+
+//css 
+bootswatch template
+js file getbootstrap
+
+//npm run dev ==> main.js
